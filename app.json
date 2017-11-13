@@ -1,11 +1,11 @@
 {
-  "name": "Hello Node.JS Express",
-  "description": "The 'hello, world' for a Node.JS Express App",
+  "name": "SCM Lab Assignment",
+  "description": "This is Group 6 Lab Assignment",
   "keywords": [
     "nodejs",
     "express"
   ],
-  "website": "http://www.jamesward.com",
-  "repository": "https://github.com/jamesward/hello-node_js-express.git",
-  "logo": "https://nodejs.org/images/logos/nodejs.png"
+  "website": "https://github.com/khengeian/TEST",
+  "repository": "https://github.com/khengeian/TEST.git",
+  "logo": "https://www.google.com/search?q=logo&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjrx5CM57vXAhUGp48KHWweDuIQ_AUICigB&biw=1396&bih=646#imgrc=S3kThdOTsH86EM:"
 }
